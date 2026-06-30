@@ -34,7 +34,6 @@ b. Check if the target powershell is not running in Contrained Language Mode.
 
 c. Check for Applocker if enabled or not, if enabled then probably use a Binary or jump with psexec (Coz it uploads the binary to c:\Windows folder). Also for Applocker, if we are not able to get the beacon , Then try using LOLBAS to execute the beacon code.
 
-Troubleshooting CRTO issues : https://tripla.dk/2021/01/31/crto-troubleshooting-notes-updates-in-progress/
 
 
 As far as general tips go: 
