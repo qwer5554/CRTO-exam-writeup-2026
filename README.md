@@ -35,8 +35,7 @@ b. Check if the target powershell is not running in Contrained Language Mode.
 c. Check for Applocker if enabled or not, if enabled then probably use a Binary or jump with psexec (Coz it uploads the binary to c:\Windows folder). Also for Applocker, if we are not able to get the beacon , Then try using LOLBAS to execute the beacon code.
 
 
-
-As far as general tips go: 
+## CRTO Exam Tips 
 
 1. I’d recommend copy/pasting a cheat sheet containing the various commands or other information you’re likely  to copy into the environment into your attack machine when you start so that you can copy/paste from that sheet and not have to worry about copy/pasting into the VM too much throughout the exam. The copy/paste with Guacamole can be hit or miss. 
 
