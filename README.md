@@ -1,7 +1,7 @@
 # CRTO-exam-writeup-2026
 CRTO exam writeup 2026
 
-## Exam Guide/Tips - Points
+## CRTO Exam Guide/Tips - Points
 
 Use Guacamole Instance on Edge Browser. If you Wants to use Firefox , Enable Firefox Async Clipboard - https://sudoedit.com/firefox-async-clipboard/
 
@@ -53,6 +53,6 @@ That helped get copy/paste working again.
 4. If the tool isn’t on the attack station, you don’t need it for the exam. This tip has been shared several times, but it’s helpful to keep in mind.
 
 5. Try your best to enjoy the exam in the midst of the pressure of completing it. It’s challenging, but I found it to be a very rewarding experience beyond just getting the cert.
-6. Cheetsheets and Notes  https://linktr.ee/primenotes
+6. CRTO exam Cheetsheets and Notes  https://linktr.ee/primenotes
 
 
